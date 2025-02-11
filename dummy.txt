@@ -1,2 +1,6 @@
 my name is JOHN JUSVIN J
+<<<<<<< HEAD
 i like JCB
+=======
+i like jcb soo much
+>>>>>>> c67ea1665836b6672f4c4bf45da411c8fff3644e
